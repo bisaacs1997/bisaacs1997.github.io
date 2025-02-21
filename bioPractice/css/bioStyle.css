@@ -1,0 +1,26 @@
+/*Bryce Isaacs
+Feb 20 */
+
+
+.intro{
+font-size: 24px;
+color: darkblue;
+padding: 20px 60px;
+text-align: center;
+}
+
+.highlight{
+background-color: lightyellow;
+color: black;
+padding: 5px;
+}
+
+.alert {
+    background: red;
+    color:white;
+    font-weight: bold;
+    padding: 5px;
+}
+.blue {
+    background: blue;
+}
