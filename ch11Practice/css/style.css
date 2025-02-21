@@ -1,0 +1,29 @@
+/* Bryce Isaacs, Feb 20 */
+
+
+header{
+    background-color: lightgray;
+}
+
+footer{
+    background-color: lightgrey;
+}
+p, ul, li{
+    font-size:20px;
+}
+
+a:link{
+    color:red;
+}
+
+a:visited{
+    color:green;
+}
+
+a:hover{
+    color:purple;
+}
+
+a:active{
+    color:yellow;
+}
