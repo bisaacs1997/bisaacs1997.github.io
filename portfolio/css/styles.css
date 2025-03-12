@@ -15,6 +15,13 @@ margin-right: 5%;
 
 }
 
+legend{
+width: 90%;
+margin-left: 5%;
+margin-right: 5%;
+
+}
+
 ul{
     position:static;
     margin: 1px;
