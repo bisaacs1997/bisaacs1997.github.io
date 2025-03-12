@@ -1,5 +1,22 @@
+div {
+    margin: 10px;
+}
+
+label {
+    margin-right: 15px;
+    width: 150px;
+    display: inline-block;
+}
+
+form{
+width: 80%;
+margin-left: 10%;
+margin-right: 10%;
+
+}
+
 ul{
-    position:fixed;
+    position:static;
     margin: 1px;
     width: 100%;
 }
@@ -14,8 +31,10 @@ li {
     
 }
 
-footer {
+footer p{
     color:white;
+    text-align: center;
+    
 }
 
 a{
@@ -59,7 +78,27 @@ p{
     color: white;
     text-align: center;
 }
-img{
+main img{
     width: 100%;
     height: auto;
+}
+
+body{
+    color:white;
+}
+
+input{
+    background-color:rgb(196, 196, 196) ;
+    color:black;
+}
+
+input{
+color:black;
+opacity:.5;
+}
+
+textarea{
+    text-align: left;
+    background-color: rgb(196, 196, 196);
+    color:Black;
 }
