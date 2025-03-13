@@ -1,0 +1,22 @@
+/* Practice CustomFonts Style Sheet */
+
+.websafe{
+    font-family: Arial, Courier, "Courier New";
+}
+.google {
+    font-family: 'Dosis', Georgia, serif;
+}
+
+/* <weight>: Use a value from 100 to 900
+ <uniquifier>: Use a unique and descriptive class name */
+
+.big-shoulders-stencil {
+  font-family: "Big Shoulders Stencil", sans-serif;
+  font-weight: bold;
+  font-style: normal;
+}
+
+li{
+    font-family: "Big Shoulders Stencil", sans-serif;
+    font-style: normal;
+}
