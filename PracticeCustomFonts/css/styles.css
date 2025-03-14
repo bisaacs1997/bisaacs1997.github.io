@@ -1,0 +1,14 @@
+/* Practice CustomFonts Style Sheet */
+
+@font-face {
+    font-family: 'Florida Vibes';
+    src: url('../fonts/FloridaVibes.woff') format('woff'),
+         url('../fonts/FloridaVibes.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+	font-family: 'Florida Vibes', "Times New Roman", serif;
+}
+

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Florida Vibes';
+    src: url('FloridaVibes.woff2') format('woff2'),
+        url('FloridaVibes.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
