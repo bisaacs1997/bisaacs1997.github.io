@@ -1,0 +1,76 @@
+
+/*Bryce Isaacs, April 1, 2025*/
+html{
+	background-image:url(../images/jewelry.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: cover;
+}
+
+.necklace{
+	float: left;
+	border-radius: 50%;
+}
+
+.addrightmargin{
+	margin-right: 10%;
+}
+	 
+#outerwrapper {	
+	margin: 0 auto;
+	border-radius: 15%;
+	background: rgba(243,205,170, 0.4);
+	width:70%;
+	align-items: center;
+	
+}
+
+main{
+	background:linear-gradient(#FFFFFF, #F0F9E6);
+	padding: 10px;
+	margin:20px;
+	border-radius: 2em;
+	font-size: 1.25em;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+footer{
+	font-size: 1em;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+nav li{
+	list-style-type:none;
+	font-size: 1.5em;
+	clear:both;
+}
+
+.pacifico-regular {
+	font-family: "Pacifico", cursive;
+	font-weight: 400;
+	font-style: normal;
+  }
+
+  h1{
+	font-family: 'pacifico', sans-serif;
+	font-size: 4em;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Italic.woff2') format('woff2'),
+        url('Roboto-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+
+h2{
+    font-family: 'Roboto';
+    font-weight: normal;
+    font-style: italic;
+	font-size: 2em;
+}
