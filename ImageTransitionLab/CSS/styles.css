@@ -1,0 +1,10 @@
+img {
+    
+    margin-left: 35%;
+    width:20%;
+    transition: width 1s ease 0.05s;
+}
+img:hover{
+    width: 30%;
+    
+}
