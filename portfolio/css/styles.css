@@ -10,11 +10,14 @@ label {
     display: inline-block;
 }
 
-form{
-width: 80%;
-margin-left: 10%;
-margin-right: 10%;
+form {
+width: 95%;
+margin-left: 2.5%;
+margin-right: 2.5%;
 
+}
+nav{
+    background-color:rgb(0, 42, 50)
 }
 
 nav ul{
@@ -32,8 +35,14 @@ li {
     text-align: center;
     
 }
+
+html{
+    background-color:rgb(0, 42, 50)
+}
+
 footer{
     clear:both;
+    background-color:rgb(0, 42, 50)
 }
 footer p{
     color:white;
@@ -64,9 +73,6 @@ li a:visited{
 
 h1{
     text-align: center;
-}
-html{
-    background-color:rgb(0, 42, 50);
 }
 
 p{
@@ -102,4 +108,5 @@ textarea{
     color:Black;
     width: 80%;
 }
+
 
