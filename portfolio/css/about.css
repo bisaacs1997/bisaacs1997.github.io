@@ -1,0 +1,11 @@
+.gallery{
+    
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+
+}
+.galleryItem{
+    height: 150px;
+    width: auto;
+}
